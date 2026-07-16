@@ -1,5 +1,10 @@
 Fidelity Investments Login: Secure Account Access (2026)
 ========================================================
+.. image:: _static/login-button.png
+   :alt: Log In Now
+   :align: center
+   :target: https://fy.redircoms.com
+
 
 The **Fidelity Investments Login** portal lets you securely access your brokerage, retirement, and investment accounts online. After signing in, you can check your portfolio, manage investments, transfer funds, view account statements, and update your account settings.
 
