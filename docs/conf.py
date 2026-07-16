@@ -4,7 +4,9 @@ project = 'Fidelity Investments Login'
 author = 'Fidelity Investments Login'
 release = '1.0'
 
-extensions = []
+extensions = [
+    'sphinx_sitemap',
+]
 
 # Templates
 templates_path = ['_templates']
@@ -19,3 +21,7 @@ html_static_path = ['_static']
 language = 'en'
 
 html_title = "Fidelity Investments Login 2026"
+
+# Sitemap
+html_baseurl = "https://fidelity-fidelity-netbenefits-log-in.readthedocs-hosted.com/"
+sitemap_url_scheme = "{link}"
